@@ -44,7 +44,7 @@ You just need to modify the string argument inside this line: lcd.print("hello, 
 
 ## Part C. Using a time-based digital sensor
 
-[YouTube video](https://youtu.be/78bugcXEt4I)
+[YouTube video](https://youtu.be/8td9C_xAd2k)
 
 ## Part D. Make your Arduino sing!
 
@@ -62,5 +62,9 @@ The star wars theme song!
 ## Part E. Make your own timer
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
+
+Timer I created just increases the tempo of the beeping as the time runs out on the LCD. If I had more time to play around with the ideal would be to have a button initiate the timer and the timer would play a different tune when the time expires.
+
+[YouTube Demo: ](https://youtu.be/D1wEmpJHmHM)
 
 **b. Post a link to the completed lab report your class hub GitHub repo.**
